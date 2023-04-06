@@ -142,7 +142,7 @@ body{
 .rodape{
     display: flex;
     flex-direction: column;
-    text-align: center;
+    align-items: center;
     padding: 4%;
 }
 
